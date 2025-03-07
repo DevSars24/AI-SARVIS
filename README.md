@@ -2,7 +2,7 @@
 
 # SARVIS - Your Personal AI Assistant 🤖
 
-![SARVIS Banner](https://via.placeholder.com/1200x400.png?text=SARVIS+AI+Assistant) <!-- Add a banner image if available -->
+
 
 Welcome to **SARVIS**, your personal AI assistant inspired by **JARVIS** from Tony Stark's Iron Man. This project is a blend of **web development** and **artificial intelligence**, designed to make your life easier, smarter, and more futuristic. 🚀
 
