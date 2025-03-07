@@ -8,6 +8,28 @@ Welcome to **SARVIS**, your personal AI assistant inspired by **JARVIS** from To
 
 ---
 
+
+
+
+ARTICEL HELPED ME A LOT 
+
+
+https://codewithcurious.com/projects/jarvis-chatbot-using-html-css-javascript/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Inspiration 💡**
 
 SARVIS is deeply inspired by **JARVIS**, the iconic AI assistant from the Marvel Cinematic Universe. Just like JARVIS helped Tony Stark manage his life, SARVIS aims to assist you with everyday tasks, provide real-time information, and make your life more efficient. 
@@ -75,4 +97,5 @@ SARVIS is built using cutting-edge technologies to deliver a seamless experience
 - **Wikipedia Integration**: Wikipedia API
 
 ---
+
 
